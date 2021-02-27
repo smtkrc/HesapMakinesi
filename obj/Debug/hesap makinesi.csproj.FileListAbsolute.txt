@@ -1,0 +1,21 @@
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csprojAssemblyReference.cache
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.resources
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.GenerateResource.cache
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\MaterialSkin.dll
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CopyComplete
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\NPOI.dll
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\NPOI.OOXML.dll
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\SametKürücü\source\repos\hesap makinesi\hesap makinesi\bin\Debug\ICSharpCode.SharpZipLib.xml
